@@ -2,7 +2,6 @@ Introduction
 ============  
 This project is to gather related information and implement simple examples.  
 
-
 ![https://www.seeedstudio.com/blog/2018/11/23/6-important-speech-recognition-technology-you-need-to-know/](image/ReSpeaker-Technology-Combine.png)  
 
 
@@ -12,6 +11,7 @@ Keyword Search/Keyword Spotting(KWS) / Wake-up words detection
 - [Software Comparison](https://github.com/MycroftAI/mycroft-precise/wiki/Software-Comparison)  
 - [Project Alias 2.0](https://github.com/bjoernkarmann/project_alias)  
 - [How to use Alias](https://www.androidpolice.com/2019/01/14/this-google-home-and-amazon-echo-hack-lets-you-change-your-voice-ai-hotword-but-its-far-from-elegant/)  
+
 
 Speech To Text (STT)  
 ====================  
@@ -30,6 +30,7 @@ Natural Languge Processing /Chatbot
 - [NLP with RNNs and Attention](https://github.com/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb)  
 - [한글 띄어쓰기 처리, 2018](https://lovit.github.io/nlp/2018/04/25/soyspacing/?fbclid=IwAR1SzV4D4rqYa39KLk2vKi-k2unwH9nqSieVcAWuIdOjQ6GizWkdmjqA8Mo)  
 
+
 Text To Speech (TTS)  
 ====================  
 
@@ -41,7 +42,9 @@ Articles
 ================ 
 
 - [2019 Guide to Speech Synthesis](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)  
+- [6 Important Speech Recognition Technology You should Know](https://www.seeedstudio.com/blog/2018/11/23/6-important-speech-recognition-technology-you-need-to-know/)  
 - [음성인식 기술 소개, 2016년](http://www.itdaily.kr/news/articleView.html?idxno=76405)  
+
 
 Reference  
 ==========  
