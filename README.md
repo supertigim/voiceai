@@ -1,6 +1,5 @@
 Introduction  
 ============  
-This project is to gather related information and implement simple examples.  
 
 ![https://www.seeedstudio.com/blog/2018/11/23/6-important-speech-recognition-technology-you-need-to-know/](image/ReSpeaker-Technology-Combine.png)  
 
