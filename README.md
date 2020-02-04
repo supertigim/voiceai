@@ -21,6 +21,7 @@ Speech To Text (STT)
 - [DeepSpeech Examples](https://github.com/mozilla/DeepSpeech-examples)  
 - [DeepSpeech Paper by Baidu, Dec 2014](https://arxiv.org/pdf/1412.5567.pdf)  
 - [A Journey to <10% with DeepSpeech, Nov 2017](https://hacks.mozilla.org/2017/11/a-journey-to-10-word-error-rate/)  
+- [10 best Korean language Datasets](https://lionbridge.ai/datasets/10-best-korean-language-datasets-for-machine-learning/)  
 
 
 Natural Languge Processing /Chatbot
@@ -56,3 +57,4 @@ Reference
 - [Free WAV files](https://www.thefreesite.com/free_sounds/free_wavs/)  
 - [Wav Converter](https://audio.online-convert.com/convert-to-wav)  
 - [Google Dataset Search](https://www.zoominlife.com/1614?fbclid=IwAR0GbTzE87Zt3DnhQCoAalmFQw8-Gv7H4NPMzk1NNQ0I2QeZtHnH-FtkE7Q)    
+- [Voice Activity Detection using webrtcvad](https://www.kaggle.com/holzner/voice-activity-detection-example)  
