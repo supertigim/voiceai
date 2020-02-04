@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+
+class Config:
+
+    CHANNELS = 1
+    RATE = 16000
+    CHUNK_SIZE = 512
+
+    VOICE_END_CHECK_TIME = 0.5 # 0.5 seconds
+    MIN_VOICE_LENGTH = 20
+    MAX_RECORDING_BUF_SIZE = 500
+    SILENCE_PADING = 6
+
+    VOICE_DETECTION_THRESHOLD = 20
+    MAX_ACTIVE_NOISE_LIST_SIZE = 50
+
+    S_WIDTH = 2
+    SHORT_NORMALIZE = (1.0/32768.0)
+
+
+# end of file
