@@ -5,7 +5,8 @@
     conda create -n voiceai python=3  
     conda activate voiceai  
     (voiceai) pip install deepspeech  
-    (voiceai) conda install -c anaconda pyaudio  
+    (voiceai) conda install nwani::portaudio nwani::pyaudio  
+ 
 ```  
 ### How to run   
 
@@ -16,10 +17,10 @@
 
     # Run voice recognition 
     (voiceai) python voice_recognition.py  
-
 ```  
 
 
 ### Reference  
 
 - [Deep Speech Release](https://github.com/mozilla/DeepSpeech/releases/)  
+- [Audio Device Detection Problem in PyAudio](https://stackoverflow.com/questions/47640188/pyaudio-cant-detect-sound-devices)  
