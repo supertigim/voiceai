@@ -6,6 +6,8 @@ Introduction
 
 Keyword Search/Keyword Spotting(KWS) / Wake-up words detection
 ==========  
+- [Temporal CNN for Keyword Spotting, 2019](https://github.com/hyperconnect/TC-ResNet)  
+- [CNN for Keyword Spotting, 2017](https://github.com/castorini/honk)  
 - [Mycroft Precise](https://github.com/MycroftAI/mycroft-precise)  
 - [Software Comparison](https://github.com/MycroftAI/mycroft-precise/wiki/Software-Comparison)  
 - [Project Alias 2.0](https://github.com/bjoernkarmann/project_alias)  
@@ -48,6 +50,9 @@ Articles
 Reference  
 ==========  
 
+- [How to detect sound by suing PyAudio #1](https://stackoverflow.com/questions/892199/detect-record-audio-in-python/892293#892293)
+- [How to detect sound by using PyAudio #2](https://stackoverflow.com/questions/18406570/python-record-audio-on-detected-sound)
+- [Comparision of Python Audio Libraries](https://realpython.com/playing-and-recording-sound-python/)  
 - [Free WAV files](https://www.thefreesite.com/free_sounds/free_wavs/)  
 - [Wav Converter](https://audio.online-convert.com/convert-to-wav)  
-- [Google Dataset Search](https://www.zoominlife.com/1614?fbclid=IwAR0GbTzE87Zt3DnhQCoAalmFQw8-Gv7H4NPMzk1NNQ0I2QeZtHnH-FtkE7Q)  
+- [Google Dataset Search](https://www.zoominlife.com/1614?fbclid=IwAR0GbTzE87Zt3DnhQCoAalmFQw8-Gv7H4NPMzk1NNQ0I2QeZtHnH-FtkE7Q)    
