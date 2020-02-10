@@ -58,3 +58,27 @@ Reference
 - [Wav Converter](https://audio.online-convert.com/convert-to-wav)  
 - [Google Dataset Search](https://www.zoominlife.com/1614?fbclid=IwAR0GbTzE87Zt3DnhQCoAalmFQw8-Gv7H4NPMzk1NNQ0I2QeZtHnH-FtkE7Q)    
 - [Voice Activity Detection using webrtcvad](https://www.kaggle.com/holzner/voice-activity-detection-example)  
+
+ETC  
+====  
+
+- [DeepSpeech2Korean](https://github.com/JaesungBae/DeepSpeech2Korean)  
+- [https://github.com/SeanNaren/deepspeech.pytorch](https://github.com/SeanNaren/deepspeech.pytorch)  
+- [OpenSeq2Seq](https://nvidia.github.io/OpenSeq2Seq/html/index.html)  
+- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)  
+- [Kaist VAD](https://github.com/jtkim-kaist/VAD)  
+- [VAD Net - http://openssi.net](https://github.com/hcmlab/vadnet)  
+- [Kaldi 샘플 실행하기](https://blog.naver.com/kkyy3402)  
+- [Kaldi 샘플 스크립트 - 맥컴터](https://jybaek.tistory.com/772)  
+- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)  
+- [페이스북 ASR 설명 블로그](https://mc.ai/how-fast-is-facebooks-end-to-end-speech-recognition-toolkit/)  
+- [모델 비교 자료](https://github.com/syhw/wer_are_we)  
+- [How to install Wav2letter](https://medium.com/@shaheenkader/how-to-install-wav2letter-dc94c3b74e97)  
+- [Pykaldi](https://github.com/pykaldi/pykaldi)  
+- [Voice Activity Detection Example](https://www.kaggle.com/holzner/voice-activity-detection-example)
+
+유튜브  
+=====  
+- [cs231n 한국어](https://www.youtube.com/user/mrkebi/videos)  
+- [CNN 모델 소개](https://www.youtube.com/channel/UCaJFuqpYqxWuQl9TZky0njA/videos)  
+- [모두를 위한 ](https://www.youtube.com/watch?v=c4NKfjT4uLA&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&index=47)  
