@@ -16,7 +16,7 @@
     (voiceai) tar xvf deepspeech-0.6.1-models.tar.gz
 
     # Run voice recognition 
-    (voiceai) python voice_recognition.py  
+    (voiceai) python voice_recognition.py -m ../deepspeech-0.6.0-models  
 ```  
 
 
