@@ -26,6 +26,8 @@ Speech To Text (STT)
 
 Natural Languge Processing /Chatbot
 ====================================  
+- [NLP in Korea](https://nlpinkorean.github.io/illustrated-transformer/)  
+- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)  
 - [ABERT Blog](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)  
 - [ABERT Github](https://github.com/google-research/ALBERT)  
 - [2020 Top 10 NLP Courses](https://favouriteblog.com/natural-language-processing-nlp-online-course/?fbclid=IwAR3PmmSkFrA3Oj3jOdF5xslDbD2KxGG8ziDL5ugAbI9ac9GizcouotGd6TM)   
@@ -70,7 +72,6 @@ ETC
 - [VAD Net - http://openssi.net](https://github.com/hcmlab/vadnet)  
 - [Kaldi 샘플 실행하기](https://blog.naver.com/kkyy3402)  
 - [Kaldi 샘플 스크립트 - 맥컴터](https://jybaek.tistory.com/772)  
-- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)  
 - [페이스북 ASR 설명 블로그](https://mc.ai/how-fast-is-facebooks-end-to-end-speech-recognition-toolkit/)  
 - [모델 비교 자료](https://github.com/syhw/wer_are_we)  
 - [How to install Wav2letter](https://medium.com/@shaheenkader/how-to-install-wav2letter-dc94c3b74e97)  
